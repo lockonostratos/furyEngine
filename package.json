@@ -1,0 +1,25 @@
+{
+  "name": "furyEngine",
+  "version": "0.0.1",
+  "description": "Zero Engine for Realtime WEB!",
+  "main": "app.js",
+  "author": "Cloud Le",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --harmony app.js"
+  },
+  "dependencies": {
+    "koa": "",
+    "koa-router": "",
+    "koa-static": "",
+    "koa-stylus": "",
+    "koa-livereload": "",
+    "co-views": "",
+    "jade": "",
+    "mongoose": "",
+    "socket.io": ""
+  },
+  "devDependencies": {
+    "gulp": "^3.8.9"
+  }
+}
